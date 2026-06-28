@@ -1,9 +1,7 @@
 <h1 align="center">👋 Bonjour, je suis Nafy Dieye</h1>
 
-<h3 align="center">📊 Data Analyst | Business Intelligence | Data Science Enthusiast</h3>
-
 <p align="center">
-Transformer les données en informations exploitables pour soutenir la prise de décision.
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3500&pause=1200&color=F2C811&center=true&vCenter=true&width=900&lines=Data+Analyst;Business+Intelligence+Enthusiast;Power+BI+%7C+Python+%7C+SQL;Turning+Data+into+Actionable+Insights" />
 </p>
 
 ---
