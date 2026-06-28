@@ -14,8 +14,9 @@ Je suis étudiante en **MBA Data & Intelligence Artificielle** à l'ISM Dakar et
 
 Passionnée par l'analyse de données, la Business Intelligence et le Machine Learning, j'aime explorer les données, construire des visualisations pertinentes et développer des solutions permettant de répondre à des problématiques concrètes.
 
-### 🌍 Localisation
-Dakar, Sénégal
+📍 Basée au Sénégal
+🎓 MBA 1 Data & Intelligence Artificielle — ISM Dakar
+💻 Licence Informatique Appliqué à la gestion des entreprises — ISM
 
 ### 🎯 Centres d'intérêt
 
@@ -145,8 +146,10 @@ Conception d'un dashboard Power BI permettant d'analyser l'accès à l'eau potab
 
 ---
 
-<h3 align="center">⭐ Merci de visiter mon profil !</h3>
+<div align="center">
 
-<p align="center">
-📊 Data Analytics • 📈 Business Intelligence • 🤖 Machine Learning
-</p>
+### ⭐ Merci de visiter mon profil !
+
+*"Turning data into actionable insights."*
+
+</div>
