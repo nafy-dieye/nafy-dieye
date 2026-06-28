@@ -1,15 +1,17 @@
 <h1 align="center">👋 Bonjour, je suis Nafy Dieye</h1>
 
 <p align="center">
-<img src="https://github-readme-typing-svg.herokuapp.com?font=Montserrat&size=26&duration=3000&pause=1000&color=F2C811&center=true&vCenter=true&width=800&lines=Data+Analyst;Business+Intelligence;Power+BI+%7C+Python+%7C+SQL;Turning+Data+Into+Insights" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3500&pause=1200&color=F2C811&center=true&vCenter=true&width=900&lines=Data+Analyst;Business+Intelligence+Enthusiast;Power+BI+%7C+Python+%7C+SQL;Turning+Data+into+Actionable+Insights"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  💡 Transformer les données en informations exploitables pour la prise de décision
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=nafy-dieye&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=nafy-dieye&label=Profile%20Views&color=blue&style=for-the-badge"
+    alt="Profile views"
+  />
 </p>
 
 ---
