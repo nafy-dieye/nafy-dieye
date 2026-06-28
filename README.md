@@ -16,7 +16,7 @@
 
 📍 Basée au Sénégal
 🎓 MBA 1 Data & Intelligence Artificielle — ISM Dakar
-💻 Licence Informatique Appliqué à la gestion des entreprises — ISM
+💻 Licence Informatique Appliqué à la gestion des entreprises — ISM Dakar
 
 💡 Je travaille sur des projets de :
 
