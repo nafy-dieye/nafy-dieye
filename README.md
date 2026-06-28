@@ -15,6 +15,8 @@
 🎓 Passionnée par l'analyse de données et la transformation des données en informations utiles à la prise de décision.
 
 📍 Basée au Sénégal
+🎓 MBA 1 Data & Intelligence Artificielle — ISM Dakar
+💻 Licence Informatique Appliqué à la gestion des entreprises — ISM
 
 💡 Je travaille sur des projets de :
 
@@ -23,6 +25,7 @@
 - Machine Learning
 - Visualisation de données
 - Data Cleaning & Preprocessing
+
 
 🎯 Mon objectif est de contribuer à des projets à fort impact en utilisant les données pour résoudre des problèmes réels.
 
