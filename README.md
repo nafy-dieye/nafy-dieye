@@ -1,33 +1,37 @@
-<div align="center">
+<h1 align="center">👋 Bonjour, je suis Nafy Dieye</h1>
 
-# 👋 Bonjour, je suis Nafy Dieye
+<h3 align="center">📊 Data Analyst | Business Intelligence | Data Science Enthusiast</h3>
 
-### 📊 Data Analyst | Business Intelligence | Data Science Enthusiast
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NqZmY4ZnI3Z3l0bG53M2N4MmVtMmU0Y3B4N3d5N3N5NWN3dHpnNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="500"/>
-
-</div>
+<p align="center">
+Transformer les données en informations exploitables pour soutenir la prise de décision.
+</p>
 
 ---
 
 ## 🚀 À propos de moi
 
-🎓 Passionnée par l'analyse de données et la transformation des données en informations utiles à la prise de décision.
+Je suis étudiante en **MBA Data & Intelligence Artificielle** à l'ISM Dakar et diplômée en **Informatique Appliquée à la Gestion des Entreprises**.
 
-📍 Basée au Sénégal
-🎓 MBA 1 Data & Intelligence Artificielle — ISM Dakar
-💻 Licence Informatique Appliqué à la gestion des entreprises — ISM
+Passionnée par l'analyse de données, la Business Intelligence et le Machine Learning, j'aime explorer les données, construire des visualisations pertinentes et développer des solutions permettant de répondre à des problématiques concrètes.
 
-💡 Je travaille sur des projets de :
+### 🌍 Localisation
+Dakar, Sénégal
+
+### 🎯 Centres d'intérêt
 
 - Data Analytics
 - Business Intelligence
 - Machine Learning
-- Visualisation de données
+- Data Visualization
+- Data Storytelling
 - Data Cleaning & Preprocessing
 
+### 📚 Actuellement
 
-🎯 Mon objectif est de contribuer à des projets à fort impact en utilisant les données pour résoudre des problèmes réels.
+- Approfondissement de Power BI et DAX
+- Modélisation Machine Learning
+- SQL avancé
+- Data Engineering Fundamentals
 
 ---
 
@@ -38,16 +42,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Data Analysis
+### Analyse de données
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
-### Machine Learning
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-
-### Data Visualization
+### Visualisation
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0F4C81?style=for-the-badge)
@@ -55,7 +55,11 @@
 ### Business Intelligence
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel)
+
+### Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 
 ### Outils
 
@@ -64,90 +68,76 @@
 
 ---
 
-## 📂 Projets en vedette
+## 📂 Projets phares
 
 ### 🌍 Eau Potable Dans Le Monde
-Analyse de la qualité de l'eau et prédiction de sa potabilité à l'aide du Machine Learning.
 
-**Compétences :**
-- Python
-- EDA
-- Classification
-- Data Visualization
+Analyse de la qualité de l'eau et prédiction de sa potabilité grâce au Machine Learning.
+
+**Compétences mobilisées :**
+- Analyse exploratoire (EDA)
+- Prétraitement des données
+- Classification supervisée
+- Visualisation des données
+
+🔗 Repository : https://github.com/nafy-dieye/Eau_Potable_Dans_Le_Monde
 
 ---
 
-### 🚰 WASH Dashboard Power BI
-Analyse mondiale des indicateurs d'accès à l'eau potable et à l'assainissement.
+### 🚰 WASH Dashboard
 
-**Compétences :**
+Conception d'un dashboard Power BI permettant d'analyser l'accès à l'eau potable et aux services d'assainissement dans le monde.
+
+**Compétences mobilisées :**
 - Power BI
-- DAX
 - Power Query
-- Storytelling Data
+- DAX
+- Data Storytelling
 
 ---
 
 ### 🏦 Analyse des Demandes de Crédit
-Projet d'exploration et de préparation de données financières pour l'évaluation du risque crédit.
 
-**Compétences :**
+Étude des facteurs influençant l'acceptation des demandes de crédit à travers une analyse exploratoire et statistique.
+
+**Compétences mobilisées :**
 - Data Cleaning
 - Analyse statistique
-- Visualisation
 - Reporting
+- Visualisation
 
 ---
 
 ## 📈 Statistiques GitHub
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nafy-dieye&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nafy-dieye&layout=compact)
-
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nafy-dieye&show_icons=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafy-dieye&layout=compact" height="170">
+</p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Activité GitHub
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nafy-dieye)
-
-</div>
-
----
-
-## 📚 Actuellement
-
-🌱 J'améliore mes compétences en :
-
-- Machine Learning
-- Power BI avancé
-- SQL avancé
-- Data Engineering
-- Déploiement de projets Data
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=nafy-dieye">
+</p>
 
 ---
 
 ## 🎯 Objectifs 2026
 
-✅ Construire un portfolio Data Analytics complet
-
-✅ Développer des dashboards Power BI professionnels
-
-✅ Réaliser plusieurs projets Machine Learning end-to-end
-
-✅ Obtenir une opportunité en Data Analytics / BI
+- Construire un portfolio Data Analytics solide
+- Développer des dashboards Power BI professionnels
+- Réaliser plusieurs projets Machine Learning de bout en bout
+- Renforcer mes compétences SQL et Data Engineering
+- Décrocher une opportunité en Data Analytics / Business Intelligence
 
 ---
 
 ## 📫 Me contacter
 
-💼 LinkedIn : www.linkedin.com/in/adja-nafi-dieye
+💼 LinkedIn : https://www.linkedin.com/in/adja-nafi-dieye
 
 📧 Email : dieyeadjanafi@gmail.com
 
@@ -155,10 +145,8 @@ Projet d'exploration et de préparation de données financières pour l'évaluat
 
 ---
 
-<div align="center">
+<h3 align="center">⭐ Merci de visiter mon profil !</h3>
 
-### ⭐ Merci de visiter mon profil !
-
-*"Turning data into actionable insights."*
-
-</div>
+<p align="center">
+📊 Data Analytics • 📈 Business Intelligence • 🤖 Machine Learning
+</p>
