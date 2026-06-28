@@ -2,15 +2,15 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3500&pause=1200&color=F2C811&center=true&vCenter=true&width=900&lines=Data+Analyst;Business+Intelligence+Enthusiast;Power+BI+%7C+Python+%7C+SQL;Turning+Data+into+Actionable+Insights"
-    alt="Typing SVG"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:F2C811,100:0d6efd&height=120&section=header"
+    alt="header"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=nafy-dieye&label=Profile%20Views&color=blue&style=for-the-badge"
-    alt="Profile views"
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3500&pause=1200&color=F2C811&center=true&vCenter=true&width=900&lines=Data+Analyst;Business+Intelligence+Enthusiast;Power+BI+%7C+Python+%7C+SQL;Turning+Data+into+Actionable+Insights"
+    alt="Typing SVG"
   />
 </p>
 
