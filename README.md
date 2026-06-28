@@ -1,7 +1,7 @@
 <h1 align="center">👋 Bonjour, je suis Nafy Dieye</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3500&pause=1200&color=F2C811&center=true&vCenter=true&width=900&lines=Data+Analyst;Business+Intelligence+Enthusiast;Power+BI+%7C+Python+%7C+SQL;Turning+Data+into+Actionable+Insights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=📊+Data+Analyst;📈+Business+Intelligence+Enthusiast;🤖+Machine+Learning+Learner;💡+Turning+Data+into+Actionable+Insights" />
 </p>
 
 ---
