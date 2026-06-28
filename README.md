@@ -1,7 +1,12 @@
 <h1 align="center">👋 Bonjour, je suis Nafy Dieye</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&duration=3000&pause=1000&color=F2C811&center=true&vCenter=true&width=850&lines=📊+Data+Analyst;📈+Business+Intelligence+Enthusiast;🐍+Python+%7C+SQL+%7C+Power+BI;💡+Turning+Data+into+Actionable+Insights" />
+  <b>📊 Data Analyst | Business Intelligence | Data Science Enthusiast</b>
+</p>
+
+<p align="center">
+  💡 Transformer les données en informations exploitables pour la prise de décision
+</p>
 </p>
 
 <p align="center">
