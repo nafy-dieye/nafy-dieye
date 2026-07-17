@@ -120,8 +120,15 @@ Conception d'un dashboard Power BI permettant d'analyser l'accès à l'eau potab
 ## 📈 Statistiques GitHub
 
 <p align="center">
-![GitHub Stats](https://github-readme-stats-nafydieye.vercel.app/api?username=nafy-dieye&show_icons=true&theme=tokyonight)
-![Top Langs]((https://github-readme-stats-nafydieye.vercel.app/api/top-langs/?username=nafy-dieye&layout=compact&theme=tokyonight)
+<img
+  src="https://github-readme-stats-nafydieye.vercel.app/api?username=nafy-dieye&show_icons=true&theme=tokyonight"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats-nafydieye.vercel.app/api/top-langs/?username=nafy-dieye&layout=compact&theme=tokyonight"
+  alt="Top Languages"
+/>
 </p>
 
 ---
